@@ -1,9 +1,10 @@
 # WELCOME
 <!--**Katleho-Nyoni/Katleho-Nyoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I studies Mathematics & Mathematical Statistics from South Africa, & my interests also include :  <br/>
-- Web & Software Development                                                                      <br/>
-- and Software Engineering.                                                                       <br/>
-Constantly learning and would love to collaborate on projects. Hit me up!
+I studies Mathematics & Mathematical Statistics from South Africa, & my interests also include :  
+- Web & Software Development                                                                      
+- and Software Engineering.
+
+Constantly learning and would love to collaborate on projects. Hit me up!                         
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/lordkatlehoeagle) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/katleho-nyoni/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Lord_KPN) 
@@ -25,5 +26,6 @@ I have skills from beginner to advanced in different languages like :           
 - Python                                                                                          <br/>
 - R/RStudio                                                                                       <br/>
 - SQL/PostgreSQL.                                                                                  <br/>
-My resilience and ambition force me to be revolutionary,and you could be part of it too! 
+
+My resilience and ambition force me to be revolutionary,and you could be part of it too!          <br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
