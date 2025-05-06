@@ -17,7 +17,10 @@ Constantly learning and would love to collaborate on projects. Hit me up!
 ![](https://nirzak-streak-stats.vercel.app/?user=Katleho-Nyoni&theme=dark&hide_border=false)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Katleho-Nyoni&icon=0&color=0)](https://visitcount.itsvg.in)
+### Last Remark
+My resilience and ambition force me to be revolutionary, and you could be part of it too!  
+
+<!-- ##Unnecessary as the Tech Stack provides my skills
 
 I have skills from beginner to advanced in different languages like :                             <br/>
 - C/C++                                                                                           <br/>
@@ -27,5 +30,5 @@ I have skills from beginner to advanced in different languages like :           
 - R/RStudio                                                                                       <br/>
 - SQL/PostgreSQL.                                                                                  <br/>
 
-My resilience and ambition force me to be revolutionary,and you could be part of it too!          <br/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
+ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
