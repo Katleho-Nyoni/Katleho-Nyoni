@@ -1,6 +1,6 @@
 # WELCOME
 <!--**Katleho-Nyoni/Katleho-Nyoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-I studied Mathematics & Mathematical Statistics from South Africa, & my interests also include :  
+I studied Mathematics & Mathematical Statistics from a South African university, & my interests also include :  
 - Web & Software Development                                                                      
 - and Software Engineering.
 
