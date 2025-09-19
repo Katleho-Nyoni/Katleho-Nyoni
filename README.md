@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Katleho-Nyoni)
 # WELCOME
 <!--**Katleho-Nyoni/Katleho-Nyoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 Hello. My interests include :  
