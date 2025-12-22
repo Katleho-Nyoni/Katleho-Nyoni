@@ -30,7 +30,7 @@ and many more.
 
 ---
 ### Last Remark
-According to the most recent(05 Nov 2025) list by [commiters.top](https://committers.top/south_africa.html) , I'm part of the Top 0.14% of the **most active GitHub users in South Africa**.
+According to the most recent(21 Dec 2025) list by [commiters.top](https://committers.top/south_africa.html) , I'm part of the Top 0.11% of the **most active GitHub users in South Africa**.
 
 My resilience and ambition force me to be revolutionary, and you could be part of it too!  
  
